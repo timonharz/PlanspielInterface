@@ -10,8 +10,8 @@ import schedule
 driver = webdriver.Chrome()
 driver.implicitly_wait(0.5)
 
-username = "timon.h3"
-password = "MeineStadt_09"
+username = ""
+password = ""
 #global variables
 loggedIn = False
 totalCapitalInt = 0
